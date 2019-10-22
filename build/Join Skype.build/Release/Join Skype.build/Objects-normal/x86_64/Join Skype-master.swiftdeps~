@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ec77a7571e265fd00307bef0333f65e2"
+build_time: [1566977345, 978228000]
+inputs:
+  "/Users/u714824/Documents/github/akai/akai/AppDelegate.swift": [9223372036, 854775807]

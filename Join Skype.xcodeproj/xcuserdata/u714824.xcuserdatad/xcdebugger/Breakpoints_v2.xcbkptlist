@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96A48F74-B76B-489B-A733-4589588C6BDF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E82E60F8-5478-4DFA-B1EA-3832A62CBB92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "akai/AppDelegate.swift"
+            timestampString = "588769263.8279181"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "getEvents()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57C5C806-76BD-4919-A0C5-0996AB439071"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "akai/AppDelegate.swift"
+            timestampString = "588769263.828186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "getSubmenu(event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5307969E-68AD-43D3-ADE6-F472EB9DF2A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "akai/AppDelegate.swift"
+            timestampString = "588769263.828375"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchExchangeCalendar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5307969E-68AD-43D3-ADE6-F472EB9DF2A2 - 7682e4a893f1e9d9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "akai.AppDelegate.fetchExchangeCalendar() -&gt; Swift.Optional&lt;__C.EKCalendar&gt;"
+                  moduleName = "akai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/u714824/Documents/github/akai/akai/AppDelegate.swift"
+                  timestampString = "586078424.738008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "5307969E-68AD-43D3-ADE6-F472EB9DF2A2 - 1fa10376a77f581d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.EKCalendar) -&gt; Swift.Bool in akai.AppDelegate.fetchExchangeCalendar() -&gt; Swift.Optional&lt;__C.EKCalendar&gt;"
+                  moduleName = "akai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/u714824/Documents/github/akai/akai/AppDelegate.swift"
+                  timestampString = "586078424.739573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "382E039D-B939-42FB-8514-4E2D037B3D12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "akai/AppDelegate.swift"
+            timestampString = "588769263.828555"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchExchangeCalendar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
